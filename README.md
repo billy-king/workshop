@@ -10,6 +10,4 @@ aflkasn
 
 ##sdgmksdm
 
-##smd;kglmsd
-
-##skgsmg
+##smd
